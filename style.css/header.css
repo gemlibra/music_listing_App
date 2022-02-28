@@ -1,0 +1,11 @@
+
+ //CSS FOR HEADER IMAGES
+ 
+ #headerimages {
+                text-align: center;
+                margin-left: 350px;
+                border: 1px solid #2f297e;
+                border-radius: 15px;
+                margin-top: 10px;
+                width: 45%;
+            }

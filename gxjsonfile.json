@@ -1,0 +1,70 @@
+ [ 
+	 {
+         "artist": "michael jackson",
+         "title": "thriller",
+         "genre": "r & b",
+         "img": "img\/mjpic.png"
+	 },
+     {    
+         "artist": "kool & the gang",
+         "title": "ladies night",
+        "genre": "r & b", 
+        "img": "img\/koolgangpic.png"
+    },
+    {   
+        "artist": "leon haywood",
+        "title": "don't push it",
+        "genre": "r & b", 
+        "img": "img\/leonhaywoodpic.png"
+    },
+    {   
+        "artist": "skyy",
+        "title": "real love",
+        "genre": "r & b", 
+        "img": "img\/skyypic.png"
+    },
+    {  
+        "artist": "midnight star",
+        "title": "extra extra read all about it",
+        "genre": "r & b", 
+        "img": "img\/midnightstarpic.png"
+    },
+    {   
+        "artist": "atlantic star",
+        "title": "circles",
+        "genre": "r & b",
+        "img": "img\/atlanticstarpic.png"
+    },
+    {  
+        "artist": "fantastic voyage",
+        "title": "fantastic voyage",
+        "genre": "r & b",
+        "img": ""
+    },
+    {  
+        "artist": "lionel richie",
+        "title":"all night long",
+        "genre": "ballard",
+        "img": "" 
+    },
+    {  
+        "artist": "one way",
+        "title": "mr.gGroove",
+        "genre": "funk",
+        "img": "" 
+    },
+    {   
+        "artist": "lionel richie",
+        "title": "hello",
+        "genre": "ballard",
+        "img": "" 
+    },
+    {  
+        "artist": "ray parker jr",
+        "title": "the other woman",
+        "genre": "r & b",
+        "img": ""  
+    }
+  ]
+
+
